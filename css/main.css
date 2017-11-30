@@ -6,7 +6,7 @@
     
     /* Add a gray background color and some padding to the footer */
     footer {
-      background-color: #555;
+      background-color: #000;
       padding: 25px;
 	  color: white;
     }
